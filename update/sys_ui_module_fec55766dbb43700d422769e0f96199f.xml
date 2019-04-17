@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="tb">3ac55766dbb43700d422769e0f96199d</application>
+        <filter/>
+        <name>tbs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_newapp.tb_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-17 07:33:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fec55766dbb43700d422769e0f96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tbs</sys_name>
+        <sys_package display_value="newApp" source="x_snc_newapp">1a841326dbb43700d422769e0f9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="newApp">1a841326dbb43700d422769e0f9619e2</sys_scope>
+        <sys_update_name>sys_ui_module_fec55766dbb43700d422769e0f96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-17 07:33:17</sys_updated_on>
+        <table>x_snc_newapp_tb</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
